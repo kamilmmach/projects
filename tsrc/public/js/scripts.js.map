@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"scripts.js","sourcesContent":["$(function () {\n    $('button.respond').click(function () {\n        $(this).parent().next().slideToggle();\n    });\n});"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA;EACI,oBAAoB,EACvB;;AAED;EACI,oBAAoB,EACvB;;AAED;EACI,mCAAmC,EACtC;;AAED;EACI,cAAc,EACjB","file":"app.css","sourcesContent":[".welcome {\n    margin-bottom: 2rem;\n}\n\nnav {\n    margin-bottom: 2rem;\n}\n\n.blockquote-admin {\n    border-left: 0.25rem solid #ecaaab;\n}\n\n.hidden {\n    display: none;\n}\n\n"]}

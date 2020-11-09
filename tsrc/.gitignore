@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+.env
+error_log
+npm_debug.log
+.htaccess
+tags
+*.swp
+composer.lock

@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'add_message' => 'Dodaj wiadomość',
+    'btn_add_request' => 'Złóż wniosek',
+    'btn_delete' => 'Usuń',
+    'btn_edit' => 'Edytuj',
+    'btn_edit_request' => 'Edytuj wniosek',
+    'btn_send_request' => 'Wyślij wniosek',
+    'name' => 'Nazwa kanału',
+    'created' => 'Stworzono',
+    'message' => 'Wiadomość',
+    'no_requests' => 'Nie masz żadnych wniosków',
+    'owner' => 'Właściciel',
+    'password' => 'Hasło',
+    'password_remark' => 'Hasło nie jest w żaden sposób zabezpieczone. Zaleca się jego zmianę na teamspeaku po akceptacji wniosku.',
+    'responder' => 'Osoba rozpatrująca',
+    'created_at' => 'Data stworzenia',
+    'status' => 'Status',
+    'status_accepted' => 'Zaakceptowany',
+    'status_pending' => 'Oczekujący',
+    'status_rejected' => 'Odrzucony',
+    'welcome_channel' => 'Złożone wnioski',
+    'welcome_channel_create' => 'Wniosek o stworzenie kanału',
+    'welcome_channel_edit' => 'Edycja wniosek',
+];

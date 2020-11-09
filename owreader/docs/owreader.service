@@ -1,0 +1,12 @@
+[Unit]
+Description=One-wire device reading service
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+ExecStart=/usr/bin/owreader
+
+[Install]
+WantedBy=multi-user.target

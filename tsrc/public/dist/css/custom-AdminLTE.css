@@ -1,0 +1,33 @@
+.respond-bar > li > a.hover-red:hover {
+    color: #dd4b39;
+}
+.respond-bar > li > a.hover-green:hover {
+    color: #00a65a;
+}
+.respond-bar > li > a.hover-blue:hover {
+    color: #3c8dbc;
+}
+
+.respond-bar {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 2rem;
+}
+.respond-bar > li {
+    position: relative;
+    display: block;
+    float: left;
+}
+.respond-bar > li > a {
+    margin-right: 2rem;
+}
+
+.box-header > .box-title-big {
+    font-size: 4rem;
+}
+
+.icon-huge {
+    font-size: 15rem;
+    margin: -4rem 0;
+}
